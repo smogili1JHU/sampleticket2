@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37824.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "supportticketapp.client", "supportticketapp.client\supportticketapp.client.esproj", "{7A5DE644-54FF-4BD3-DA8D-2A4C13189724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupportTicketApp.Server", "SupportTicketApp.Server\SupportTicketApp.Server.csproj", "{8F3C14F5-8468-4883-BBCA-7143196D2055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5DE644-54FF-4BD3-DA8D-2A4C13189724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5DE644-54FF-4BD3-DA8D-2A4C13189724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5DE644-54FF-4BD3-DA8D-2A4C13189724}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7A5DE644-54FF-4BD3-DA8D-2A4C13189724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5DE644-54FF-4BD3-DA8D-2A4C13189724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5DE644-54FF-4BD3-DA8D-2A4C13189724}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8F3C14F5-8468-4883-BBCA-7143196D2055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3C14F5-8468-4883-BBCA-7143196D2055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3C14F5-8468-4883-BBCA-7143196D2055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3C14F5-8468-4883-BBCA-7143196D2055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1CD3D6-4149-4030-9CB8-4C339414CEA9}
+	EndGlobalSection
+EndGlobal
